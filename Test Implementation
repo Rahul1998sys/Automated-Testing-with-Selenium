@@ -1,0 +1,2 @@
+1. Page Object Model (POM)
+Each webpage is represented as a Java class containing web elements and actions.
