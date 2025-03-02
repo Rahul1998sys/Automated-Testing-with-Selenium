@@ -1,0 +1,15 @@
+Selenium-Automation-Project/
+│── src/
+│   ├── main/
+│   │   ├── pages/
+│   │   │   ├── LoginPage.java
+│   │   │   ├── CheckoutPage.java
+│   │   │   ├── SearchPage.java
+│   ├── test/
+│   │   ├── LoginTest.java
+│   │   ├── CheckoutTest.java
+│   │   ├── SearchTest.java
+│── test-output/
+│── pom.xml
+│── README.md
+```
